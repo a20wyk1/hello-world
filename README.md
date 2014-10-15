@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-a repo (repository)
+a repo (repository) in hello-world branch.
